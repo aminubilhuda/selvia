@@ -6,7 +6,7 @@ const second = 1000,
   minute = second * 60,
   hour = minute * 60,
   day = hour * 24;
-let countDown = new Date('June 14, 2023 00:00:00').getTime(),
+let countDown = new Date('July 21, 2024 00:00:00').getTime(),
   x = setInterval(function () {
     let now = new Date().getTime(),
       distance = countDown - now;
@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Ini dari Aku 😚 Tentunya Aminu Bil Huda ❤ pada hari ini Rabu, 14 Juni 2023 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 20</b>", " ", "Kepadamu Iva Novia Dewi Magdalena, Panjang umur, Sehat selalu, jangan nakal , jangan bandel dan ngambekan gk jelas, oh iya jangan stres OKE!❤ :v. Aamiin. ", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Aminu Bil Huda, ❤ :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Ini dari Aku 😚 Tentunya Aminu Bil Huda ❤ pada hari ini Minggu, 21 Juli 2024 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yaaaa</b>", " ", "Kepadamu Nur Diah Wulan Dari, Panjang umur, Sehat selalu, oh iya jangan stres OKE! seng gk perlu gausah dipikir nemen-nemen :v. Aamiin. ", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Aminu Bil Huda, :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii Cantik!!", "Happy Birthday ya..", " ", "Ciie udah 20 tahun aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang WOW atau romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.", " ", "Oh ya tambahan" ," ", "<b><font color='red'>❤Jangan Lupa Terus Sayang + Cinta Sama Aku Yaaa❤</font><b>"],
+  strings: ["Haii Cantik!!", "Happy Birthday ya..", " ", "Ciie udah makin tua aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih baik lahi pokoknya.", "Maaf ya gabisa kasih surprise atau hadiah yang lain. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.", " ", "Oh ya tambahan" ," ", "<b><font color='red'>Jangan Lupa Sholat dan Kesehatane di jaga samaaaa kalo mau usaha aku siap support kok</font><b>"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
