@@ -146,15 +146,15 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb",
+  strings: ["Assalamualaikum",
             " ",
             "Hay nona cantik tepat hari ini tanggal, 24 September 2024 ",
             " ",
-            "<b>Selamat Ulang Tahun Yaaaa</b>",
+            "<b>Perigatan hari lahirmu kedunia yaa</b>",
             " ",
-            "---",
-            , " ",
-            "Wassalamualakaikum Wr. Wb",
+            "mungkin ini hanya sebuah teks yang bisa kamu baca saya, tidak ada banyak yang ingin mas sampaikan",
+            , " mungkin di slide dua nanti bisa kamu baca ucapannya. Ini hanya kata pembuka aja kok",
+            "",
             " ",
             "- Aminu Bil Huda, :)"],
   startDelay: 4000,
