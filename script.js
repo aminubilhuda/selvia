@@ -156,7 +156,7 @@ new TypeIt("#teks1", {
             "Tertanta manusia pembuat stressss",
             "- Aminu Bil Huda, :)"],
   startDelay: 4000,
-  speed: 75,
+  speed: 80,
   waitUntilVisible: true
 }).go();
 
@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
             "Sekali lagi, Selamat Ulang Tahun. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.",
             "Terima kasih sudah menjadi kamu yang luar biasa. <b><font color='red'>Wopyuuuu❤️❤️</font><b>"],
   startDelay: 2000,
-  speed: 75,
+  speed: 80,
   waitUntilVisible: true
 }).go();
 
