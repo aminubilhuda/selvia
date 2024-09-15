@@ -146,14 +146,32 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Hay nona cantik tepat hari ini tanggal, 24 September 2024 ", " ", "<b>Selamat Ulang Tahun Yaaaa</b>", " ", "---", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Aminu Bil Huda, :)"],
+  strings: ["Assalamualaikum Wr. Wb",
+            " ",
+            "Hay nona cantik tepat hari ini tanggal, 24 September 2024 ",
+            " ",
+            "<b>Selamat Ulang Tahun Yaaaa</b>",
+            " ",
+            "---",
+            , " ",
+            "Wassalamualakaikum Wr. Wb",
+            " ",
+            "- Aminu Bil Huda, :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii Cantik!!", "Happy Birthday ya..", " ", "Ciie udah makin tua aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih baik lahi pokoknya.", "Maaf ya gabisa kasih surprise atau hadiah yang lain. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.", " ", "Oh ya tambahan" ," ", "<b><font color='red'>Jangan Lupa Sholat dan Kesehatane di jaga samaaaa kalo mau usaha aku siap support kok</font><b>"],
+  strings: ["Haii Cantik!!",
+            "Happy Birthday ya..",
+            " ",
+            "Ciie udah makin tua aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih baik lagi pokoknya.",
+            "Maaf ya gabisa kasih surprise atau hadiah yang lain. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka yaaa :)",
+            "Sekali lagi, Selamat Ulang Tahun. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.",
+            " ", "Oh ya tambahan",
+            " ",
+            "<b><font color='red'>Jangan Lupa Sholat dan Kesehatanya di jaga yaaa. ♥ Allah bless you my lovee ♥</font><b>"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
