@@ -163,15 +163,11 @@ new TypeIt("#teks1", {
 new TypeIt("#teks2", {
   strings: ["Selamat ulang tahun 🎂, Siti Astina Maharani, sayangku!❤️",
             "Hari ini adalah hari spesial karena hari ini dunia menghadirkan seseorang yang sangat luar biasa yaitu kamu!🥰",
-            " ",
             "Aku bersyukur bisa merayakan ulang tahunmu 🎂, melihatmu tumbuh dan terus membawa kebahagiaan di sekitarmu.😚",
             "Semoga setiap harimu dipenuhi dengan cinta❤️, tawa🤣, dan kebahagiaan🥰.",
             "Maaf ya gabisa kasih surprise atau hadiah yang lain 🎂🎁. Cuma ini yang bisa mas kasih ke kamu, aku harap kamu suka yaaa :)",
             "Sekali lagi, Selamat Ulang Tahun. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin.",
-            " ",
-            "Terima kasih sudah menjadi kamu yang luar biasa.",
-            " ",
-            "<b><font color='red'>Wopyuuuu❤️❤️</font><b>"],
+            "Terima kasih sudah menjadi kamu yang luar biasa. <b><font color='red'>Wopyuuuu❤️❤️</font><b>"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
