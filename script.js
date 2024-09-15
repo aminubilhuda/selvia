@@ -146,10 +146,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum",
-            " ",
-            "Hay nona tepat hari ini tanggal",
-            "<b>16 September 2024</b>",
+  strings: ["Assalamualaikum Hay nona tepat hari ini tanggal <b> 16 September 2024</b>",
             "Aku masih ingat jelas saat pertama kali kita bertemu.",
             "Tidak pernah terbayangkan sebelumnya bahwa pertemuan kita akan membawa begitu banyak warna dalam hidupku.",
             "Dari obrolan sederhana hingga saat-saat berharga yang kita bagi bersama,",
