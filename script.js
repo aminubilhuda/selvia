@@ -146,11 +146,11 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Hay Nonaaa</b>",
-            "Aku masih ingat jelas saat pertama kali kita bertemu.",
-            "Tidak pernah terbayangkan sebelumnya bahwa pertemuan kita akan membawa begitu banyak warna dalam hidupku.",
-            "Dari obrolan sederhana hingga saat-saat berharga yang kita bagi bersama,",
-            "semuanya menjadi momen yang tak terlupakan. Aku benar-benar merasa beruntung bisa mengenalmu.",
+  strings: ["<b>Assalamualaikum, Hay Nonaaa!</b>",
+            "AAku masih ingat jelas saat pertama kali kita bertemu. Tak pernah terpikir sebelumnya kalau pertemuan itu akan membawa begitu banyak warna dalam hidupku.",
+            "Dari obrolan sederhana hingga momen berharga yang kita bagi, semua terasa begitu spesial.",
+            "Terima kasih sudah hadir, membuat hariku lebih cerah. Setiap hari bersamamu selalu membawa kebahagiaan.",
+            "Tapi yaa, terkadang kamu juga sih yang bikin aku stress, hahaha!",
             "Terima kasih sudah menjadi bagian dari hariku, menjadikannya lebih cerah dan penuh makna.",
             "Setiap hari bersamamu selalu membawa kebahagiaan.",
             "Tertanta manusia pembuat stressss",
